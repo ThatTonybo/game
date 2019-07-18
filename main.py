@@ -1,4 +1,5 @@
 import pyglet
+from pyglet.gl import *
 
 window = pyglet.window.Window(visible=False)
 
